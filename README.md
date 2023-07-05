@@ -5,7 +5,7 @@
   </h1>
   
   <p align="center">
-    <b>Sou Tecnico em Desenvolvimento em Sistemas e procuro me desenvolver em Ciencia de Dados!</b>
+    <b>Sou Técnico em Desenvolvimento em Sistemas e procuro me desenvolver em Ciencia de Dados!</b>
   </p>
   
 </div>
